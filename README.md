@@ -1,2 +1,2 @@
-# leonidas105.github.com
+# Páguna oficial Pedro Jhoan Salazar Pérez
 Mi página web
