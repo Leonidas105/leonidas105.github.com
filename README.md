@@ -1,4 +1,5 @@
-# Página oficial Pedro Jhoan Salazar Pérez
-Mi página web
+# Respositorio con las bases del proyecto para el curso de Git
 
-Este cambio viene de mi computadora
+Repositorio publico para curso de git con todas las cosas que necesitas.
+
+Curso
